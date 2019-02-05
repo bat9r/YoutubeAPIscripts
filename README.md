@@ -1,6 +1,9 @@
 # YoutubeAPIscripts
 Some scripts for working with Youtube API
 
+
+## addToPlaylistv2.py 
+Allows you to copy tracks from any playlist to your own and sort it by popularity. 
 ### How to use
 1.Install dependencies
 
