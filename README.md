@@ -10,4 +10,4 @@ Some scripts for working with Youtube API
 
 3.Run script
 
-`./addToPlaylistv2.py [playlist id from which you want copy] [playlist destination id] [integer many tracks copy sorted by popularity ]'
+`./addToPlaylistv2.py [playlist id from which you want copy] [playlist destination id] [integer many tracks copy sorted by popularity ]`
